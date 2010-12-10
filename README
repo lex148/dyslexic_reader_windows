@@ -1,0 +1,9 @@
+This program is a front end to windows Text to speech engine.  
+It watches the clipboard and reads allowed the content of it if it changes. 
+
+The program can also read to a wav file if requested
+
+
+
+INSTALL: 
+run  Dyslexic_Reader_Installer.msi

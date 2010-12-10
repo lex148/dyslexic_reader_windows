@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dyslexic_Reader", "Dyslexic_Reader\Dyslexic_Reader.csproj", "{CCB8C678-D53B-48AC-80DD-D2CA8EF4C21B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Dyslexic_Reader_Installer", "Dyslexic_Reader_Installer\Dyslexic_Reader_Installer.vdproj", "{DC61A840-DC2B-4AE3-BDCE-16A6A6235767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB8C678-D53B-48AC-80DD-D2CA8EF4C21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB8C678-D53B-48AC-80DD-D2CA8EF4C21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB8C678-D53B-48AC-80DD-D2CA8EF4C21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB8C678-D53B-48AC-80DD-D2CA8EF4C21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC61A840-DC2B-4AE3-BDCE-16A6A6235767}.Debug|Any CPU.ActiveCfg = Debug
+		{DC61A840-DC2B-4AE3-BDCE-16A6A6235767}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
